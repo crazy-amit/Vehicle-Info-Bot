@@ -21,5 +21,4 @@
   "buildpacks": [
   { "url": "https://github.com/heroku/heroku-buildpack-chrome-for-testing" }
 ]
-  ]
 }
